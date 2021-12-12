@@ -1,0 +1,2 @@
+rootProject.name = "Essai_application"
+include ':app'
